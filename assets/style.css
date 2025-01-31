@@ -465,6 +465,13 @@ span {
         margin-bottom: 3rem;
     }
 
+    .results-content {
+
+        grid-template-columns: repeat(auto-fit, minmax(280px, auto));
+        gap: 2.3rem;
+        margin-top: 8rem;
+    }
+
     .button-whatsapp {
         position: fixed;
         right: 0;
