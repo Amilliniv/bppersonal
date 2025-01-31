@@ -486,7 +486,7 @@ span {
     
 }
 
-@media (max-width:617px) {
+@media (max-width:467px) {
     .home-img img {
         width: 80vw;
         margin-top: 8rem;
